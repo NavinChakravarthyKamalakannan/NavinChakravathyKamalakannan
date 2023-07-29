@@ -1,5 +1,5 @@
 # NavinChakravathyKamalakannan
-### Either you run the day or the day runs you 🏃:
+### Either you run the day or the day runs you 🕰️:
 <br />
 <div align="center">
  <a href="https://github.com/mkknavin029">
