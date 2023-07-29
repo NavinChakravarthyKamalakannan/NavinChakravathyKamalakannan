@@ -11,8 +11,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkknavin029&theme=blueberry" />
 </a>
 
- <a href="https://github.com/mkknavin029">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mkknavin029&theme=algolia" />
-</a>
- 
 
