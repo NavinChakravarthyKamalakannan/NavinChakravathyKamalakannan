@@ -18,7 +18,7 @@
 👧 He/His<br>
 💻 Embedded System Developer<br>
 ❤️ Food & Sleep<br>
-📝 Favourite Quote : Either I could watch it happen or be a part of it!<br>
+📝 Favourite Quote: Do everything you have to do, but not with greed, not with ego, not with lust, not with envy but with love, compassion, humility, and devotion.<br>
 ⚡ Belief : MOM & DAD<br>
 📫 Reach me at mkkchakravarthy@gmail.com<br>
 
